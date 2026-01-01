@@ -24,7 +24,7 @@ Backend Developer especializado en Node.js, SQL y arquitectura de datos. +3 año
 
 ## Links
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://carlos-rimachi-portfolio.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00C7B7?style=flat&logo=netlify&logoColor=white)](https://carlosrimachi.netlify.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-alberto-rimachi-silva-365839258/)
 [![NPM](https://img.shields.io/badge/NPM-CB3837?style=flat&logo=npm&logoColor=white)](https://www.npmjs.com/~casdevsilva)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:sca.dev.silva@gmail.com)
